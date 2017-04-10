@@ -42,13 +42,13 @@ ext {
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 5
-        versionName "2.1.2"
+        versionName "2.1.6"
     }
     buildTypes {
         release {
