@@ -29,7 +29,7 @@ ext {
     siteUrl = 'https://github.com/vikramkakkar/SublimePicker'
     gitUrl = 'https://github.com/vikramkakkar/SublimePicker.git'
 
-    libraryVersion = '2.1.1'
+    libraryVersion = '2.1.8'
 
     developerId = 'vikramkakkar'
     developerName = 'Vikram Kakkar'
@@ -47,8 +47,8 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 5
-        versionName "2.1.6"
+        versionCode 8
+        versionName "2.1.8"
     }
     buildTypes {
         release {
